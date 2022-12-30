@@ -21,12 +21,11 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-c
 'in' keyword is used to check if a value is present in a sequence (list, range, string etc.)
 
 2. Need to use double quotations  when single quotations are used within a string. 
-    Markup :  " This is an 'example'" 
+            " This is an 'example'" 
 
 
 3. rjust() method  right aligns a string, it can be used to determine a fixed width for strings in different rows. 
 
-    Markup : 
             Syntax
             string.rjust(length, character)
 
@@ -45,7 +44,6 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-c
 4. rstrip() method removes any trailing characters (characters at the end a 
 string), space is the default trailing character to remove.
 
-    Markup : 
             Syntax
             string.rstrip(characters)
 
