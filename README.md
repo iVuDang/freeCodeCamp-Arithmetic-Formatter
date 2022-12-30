@@ -30,7 +30,7 @@ https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-c
             string.rjust(length, character)
 
             length - length of the returned string
-            character - optional character to fill the missing space to the left of the string). Default is " " (space).
+            character - optional character to fill the missing space to the left of the string). 
 
             e.g. 
             number = 32
