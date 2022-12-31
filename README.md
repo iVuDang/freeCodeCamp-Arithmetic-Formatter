@@ -1,15 +1,15 @@
 # freeCodeCamp-Arithmetic-Formatter
 
-## Instructions
+## Instructions:
 https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
 
 ## Purpose
-### Input (Function Call)
+### Input:
 ```python
 arithmetic_arranger(["32 + 8", "1 - 3801", "9999 + 9999", "523 - 49"], True)
 ```
 
-### Output
+### Output:
 ```python
   32         1      9999      523
 +  8    - 3801    + 9999    -  49
@@ -23,14 +23,16 @@ arithmetic_arranger(["32 + 8", "1 - 3801", "9999 + 9999", "523 - 49"], True)
 ## Technologies: 
 * Python
 
-## Outcome :white_check_mark:
+## Outcome :white_check_mark: :
 | Website | Link | 
 | ------------- | ------------- | 
 | Replit demo | https://replit.com/@iVuDang/FCCArithmetic-FormatterTestv3#main.py | 
 
 <br/>
 
-## What I learned 
+- - - -
+
+## What I learned:
 1. Can use a combination of  'if (not in [list])'
 'in' keyword is used to check if a value is present in a sequence (list, range, string etc.)
 
@@ -64,7 +66,7 @@ string), space is the default trailing character to remove.
             We need to rstrip() because our last iteration has the 4 spaces at the end. 
 
 
-## Citations 
+## Citations:
 * https://www.w3schools.com/python/ref_string_rjust.asp
 * https://www.w3schools.com/python/ref_string_rstrip.asp
 * rjust method and rstrip method ideas inspired from ZeynebBechiri 
