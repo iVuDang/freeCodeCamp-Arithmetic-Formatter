@@ -3,7 +3,7 @@
 ## Instructions
 https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
 
-## Purpose:
+## Purpose
 ### Input (Function Call)
 ```python
 arithmetic_arranger(["32 + 8", "1 - 3801", "9999 + 9999", "523 - 49"], True)
