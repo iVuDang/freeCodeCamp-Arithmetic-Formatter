@@ -3,6 +3,8 @@
 ## Instructions:
 https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
 
+<br>
+
 ## Purpose
 ### Input:
 ```python
@@ -17,16 +19,22 @@ arithmetic_arranger(["32 + 8", "1 - 3801", "9999 + 9999", "523 - 49"], True)
   40     -3800     19998      474
   ```
 
+<br>
+
 ## Preview:
 <img src="https://github.com/iVuDang/freeCodeCamp-Arithmetic-Formatter/blob/main/Arithmetic%20preview.png" width=100% height=100%>
+
+<br>
 
 ## Technologies: 
 * Python
 
+<br>
+
 ## Outcome :white_check_mark: :
 | Website | Link | 
 | ------------- | ------------- | 
-| Replit demo | https://replit.com/@iVuDang/FCCArithmetic-FormatterTestv3#main.py | 
+| Replit demo | https://replit.com/@iVuDang/boilerplate-arithmetic-formatter#test_module.py | 
 
 <br/>
 
@@ -65,6 +73,7 @@ string), space is the default trailing character to remove.
 
             We need to rstrip() because our last iteration has the 4 spaces at the end. 
 
+<br>
 
 ## Citations:
 * https://www.w3schools.com/python/ref_string_rjust.asp
